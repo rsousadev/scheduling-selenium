@@ -1,0 +1,7 @@
+.venv
+venv
+geckodriver
+User_Data
+.vscode
+ghostdriver.log
+geckodriver.log
